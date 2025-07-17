@@ -1,13 +1,17 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item",
+  "itemGroup.inspectstuff": "Example Mod Tab",
+  "block.inspectstuff.example_block": "Example Block",
+  "item.inspectstuff.example_item": "Example Item",
 
-  "examplemod.configuration.title": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
-  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
-  "examplemod.configuration.items": "Item List",
-  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
-  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "inspectstuff.configuration.title": "Example Mod Configs",
+  "inspectstuff.configuration.section.inspectstuff.common.toml": "Example Mod Configs",
+  "inspectstuff.configuration.section.inspectstuff.common.toml.title": "Example Mod Configs",
+  "inspectstuff.configuration.items": "Item List",
+  "inspectstuff.configuration.logDirtBlock": "Log Dirt Block",
+  "inspectstuff.configuration.magicNumberIntroduction": "Magic Number Text",
+  "inspectstuff.configuration.magicNumber": "Magic Number",
+
+  "key.inspectstuff.inspectstuff": "Raise Hand",
+  "key.categories.inspectstuff": "Inspect Stuff"
+
 }
