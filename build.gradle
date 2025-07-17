@@ -29,6 +29,13 @@ repositories {
             includeGroup "maven.modrinth"
         }
     }
+
+
+    maven {
+        name = "Curios"
+        url = uri("https://maven.theillusivec4.top/")
+    }
+
 }
 
 base {
@@ -133,6 +140,13 @@ dependencies {
 
     compileOnly "maven.modrinth:iris:1.8.12+1.21.1-neoforge"
     runtimeOnly "maven.modrinth:iris:1.8.12+1.21.1-neoforge"
+
+    compileOnly "maven.modrinth:P0Mu4wcQ:GlP0QYZf"
+    runtimeOnly "maven.modrinth:P0Mu4wcQ:GlP0QYZf"
+
+
+    runtimeOnly "top.theillusivec4.curios:curios-neoforge:9.5.1+1.21.1"
+    compileOnly "top.theillusivec4.curios:curios-neoforge:9.5.1+1.21.1:api"
 
 }
 
